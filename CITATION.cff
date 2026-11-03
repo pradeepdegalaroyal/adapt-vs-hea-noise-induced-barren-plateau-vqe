@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Adaptive versus hardware-efficient VQE ansatz under noise-induced barren plateaus: gradient decay and break-even noise against mean field"
+type: software
+authors:
+  - family-names: "Degala"
+    given-names: "Chenchupradeep"
+repository-code: "https://github.com/pradeepdegalaroyal/adapt-vs-hea-noise-induced-barren-plateau-vqe"
+url: "https://github.com/pradeepdegalaroyal/adapt-vs-hea-noise-induced-barren-plateau-vqe"
+version: "0.1.0"
+date-released: "2026-11-03"
+license: MIT
+keywords:
+  - variational quantum eigensolver
+  - barren plateau
+  - ADAPT-VQE
+  - hardware-efficient ansatz
+  - noisy simulation
